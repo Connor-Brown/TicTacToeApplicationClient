@@ -1,0 +1,32 @@
+@charset "ISO-8859-1";
+
+body {
+	width: 80%;
+	margin: auto;
+	text-align: center;
+	background: #F5F5DC;
+	font-family: 'Neucha', sans-serif;
+}
+
+table {
+	margin: auto;
+	margin-top: 4rem;
+	border-collapse: collapse;
+}
+
+.singleSquare {
+	border: 1px solid black;
+	width: 2rem;
+	height: 2rem;
+}
+
+.horizontalSeperator {
+	width: 0.5rem;
+	height: 2rem;
+	background: black;
+}
+
+.verticalSeperator {
+	height: 0.5rem;
+	background: black;
+}
